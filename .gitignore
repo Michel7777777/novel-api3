@@ -1,6 +1,7 @@
 apikey.txt
 *.json
 *.txt
+*.png
 !requirements.txt
 
 
