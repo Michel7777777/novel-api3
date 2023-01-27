@@ -1,2 +1,3 @@
 python-dotenv
 novelai-api
+asyncio

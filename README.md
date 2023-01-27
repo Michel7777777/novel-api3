@@ -3,7 +3,10 @@
 1. Install python3
 2. Create a virtual Environment and install the requirements
     >python -m venv .venv
+    or 
+    >py -m venv .venv
 
+    Activate the virtual enviroment somehow
     >.\\.venv\Scripts\Activate.ps1   
     
     >PIP install -r .\requirements.txt
